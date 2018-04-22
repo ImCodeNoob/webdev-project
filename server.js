@@ -1,5 +1,5 @@
-const baseUrl = 'http://localhost:4200';
-// const baseUrl = 'https://cs5610-project-xiaoshuang.herokuapp.com';
+// const baseUrl = 'http://localhost:4200';
+const baseUrl = 'https://webdev-project-wufeiyue.herokuapp.com';
 // prod mode: change server.js, environment.ts, model.js, widgets.server.service.js (x2)
 
 // npm install express --save
